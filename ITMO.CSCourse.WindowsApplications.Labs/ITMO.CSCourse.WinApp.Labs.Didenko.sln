@@ -41,11 +41,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03.Task3.WinButNum", "La
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab04.Task1.Parts1.2.3.4.TestStandartDialog", "Lab04.Task1.Parts1.2.3.4.TestStandartDialog\Lab04.Task1.Parts1.2.3.4.TestStandartDialog.csproj", "{9B1A77F8-D7B2-4666-ABDA-4DB4187690ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab04.Task2.EditPerson", "Lab04.Task2.EditPerson\Lab04.Task2.EditPerson.csproj", "{3B0E1791-A356-4F58-AF43-B913405C200E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab04.Task2,3.EditPerson", "Lab04.Task2,3.EditPerson\Lab04.Task2,3.EditPerson.csproj", "{3B0E1791-A356-4F58-AF43-B913405C200E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.Task1.WinBackgroundWorker", "Lab07.Task1.WinBackgroundWorker\Lab07.Task1.WinBackgroundWorker.csproj", "{E6C2C11B-EF21-42B8-87E7-5A938644ED15}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.Task2.WinAsynchDelegate", "Lab07.Task2.WinAsynchDelegate\Lab07.Task2.WinAsynchDelegate.csproj", "{0E858CED-C048-4196-B6CC-4DBEADEAC72C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab07.Task3.WinAsynchMethod", "Lab07.Task3.WinAsynchMethod\Lab07.Task3.WinAsynchMethod.csproj", "{427640ED-62AF-4B5E-A7D8-6007E13C714E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{0E858CED-C048-4196-B6CC-4DBEADEAC72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E858CED-C048-4196-B6CC-4DBEADEAC72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E858CED-C048-4196-B6CC-4DBEADEAC72C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427640ED-62AF-4B5E-A7D8-6007E13C714E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427640ED-62AF-4B5E-A7D8-6007E13C714E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427640ED-62AF-4B5E-A7D8-6007E13C714E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427640ED-62AF-4B5E-A7D8-6007E13C714E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
