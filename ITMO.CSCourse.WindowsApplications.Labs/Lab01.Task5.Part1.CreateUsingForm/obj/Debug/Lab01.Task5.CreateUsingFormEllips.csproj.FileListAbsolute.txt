@@ -1,0 +1,10 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise5.CreateUsingForm\bin\Debug\Exercise5.CreateUsingForm.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise5.CreateUsingForm\bin\Debug\Exercise5.CreateUsingForm.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise5.CreateUsingForm\bin\Debug\Exercise5.CreateUsingForm.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise5.CreateUsingForm\obj\Debug\Lab01.Task5.CreateUsingFormEllips.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise5.CreateUsingForm\obj\Debug\Exercise5.CreateUsingForm.UsingForm.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise5.CreateUsingForm\obj\Debug\Exercise5.CreateUsingForm.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise5.CreateUsingForm\obj\Debug\Lab01.Task5.CreateUsingFormEllips.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise5.CreateUsingForm\obj\Debug\Lab01.Task5.CreateUsingFormEllips.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise5.CreateUsingForm\obj\Debug\Exercise5.CreateUsingForm.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise5.CreateUsingForm\obj\Debug\Exercise5.CreateUsingForm.pdb

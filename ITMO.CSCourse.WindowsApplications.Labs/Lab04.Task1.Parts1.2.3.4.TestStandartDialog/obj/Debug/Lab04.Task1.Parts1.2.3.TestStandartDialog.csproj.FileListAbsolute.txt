@@ -1,0 +1,10 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab04.Task1.Parts1.2.3.TestStandartDialog\bin\Debug\Lab04.Task1.Exercise1.TestStandartDialog.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab04.Task1.Parts1.2.3.TestStandartDialog\bin\Debug\Lab04.Task1.Exercise1.TestStandartDialog.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab04.Task1.Parts1.2.3.TestStandartDialog\bin\Debug\Lab04.Task1.Exercise1.TestStandartDialog.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab04.Task1.Parts1.2.3.TestStandartDialog\obj\Debug\Lab04.Task1.Parts1.2.3.TestStandartDialog.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab04.Task1.Parts1.2.3.TestStandartDialog\obj\Debug\Lab04.Task1.Exercise1.TestStandartDialog.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab04.Task1.Parts1.2.3.TestStandartDialog\obj\Debug\Lab04.Task1.Exercise1.TestStandartDialog.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab04.Task1.Parts1.2.3.TestStandartDialog\obj\Debug\Lab04.Task1.Parts1.2.3.TestStandartDialog.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab04.Task1.Parts1.2.3.TestStandartDialog\obj\Debug\Lab04.Task1.Parts1.2.3.TestStandartDialog.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab04.Task1.Parts1.2.3.TestStandartDialog\obj\Debug\Lab04.Task1.Exercise1.TestStandartDialog.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab04.Task1.Parts1.2.3.TestStandartDialog\obj\Debug\Lab04.Task1.Exercise1.TestStandartDialog.pdb

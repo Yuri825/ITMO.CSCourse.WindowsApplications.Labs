@@ -1,0 +1,10 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise1.RectangleForm\bin\Debug\Exercise1.RectangleForm.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise1.RectangleForm\bin\Debug\Exercise1.RectangleForm.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise1.RectangleForm\bin\Debug\Exercise1.RectangleForm.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise1.RectangleForm\obj\Debug\Lab01.Task1.RectangleForm.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise1.RectangleForm\obj\Debug\Exercise1.RectangleForm.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise1.RectangleForm\obj\Debug\Exercise1.RectangleForm.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise1.RectangleForm\obj\Debug\Lab01.Task1.RectangleForm.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise1.RectangleForm\obj\Debug\Lab01.Task1.RectangleForm.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise1.RectangleForm\obj\Debug\Exercise1.RectangleForm.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise1.RectangleForm\obj\Debug\Exercise1.RectangleForm.pdb

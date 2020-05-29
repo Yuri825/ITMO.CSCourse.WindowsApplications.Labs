@@ -1,0 +1,9 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise5.Panel_and_GroupBox\bin\Debug\Lab02.Exercise5.Panel_and_GroupBox.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise5.Panel_and_GroupBox\bin\Debug\Lab02.Exercise5.Panel_and_GroupBox.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise5.Panel_and_GroupBox\bin\Debug\Lab02.Exercise5.Panel_and_GroupBox.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise5.Panel_and_GroupBox\obj\Debug\Lab02.Exercise5.Panel_and_GroupBox.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise5.Panel_and_GroupBox\obj\Debug\Lab02.Exercise5.Panel_and_GroupBox.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise5.Panel_and_GroupBox\obj\Debug\Lab02.Task5.Panel_and_GroupBox.WinContainer.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise5.Panel_and_GroupBox\obj\Debug\Lab02.Task5.Panel_and_GroupBox.WinContainer.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise5.Panel_and_GroupBox\obj\Debug\Lab02.Exercise5.Panel_and_GroupBox.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise5.Panel_and_GroupBox\obj\Debug\Lab02.Exercise5.Panel_and_GroupBox.pdb

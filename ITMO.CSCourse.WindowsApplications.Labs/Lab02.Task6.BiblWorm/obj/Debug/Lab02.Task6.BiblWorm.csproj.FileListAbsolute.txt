@@ -1,0 +1,9 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise6.BiblWorm\bin\Debug\Lab02.Exercise6.BiblWorm.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise6.BiblWorm\bin\Debug\Lab02.Exercise6.BiblWorm.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise6.BiblWorm\bin\Debug\Lab02.Exercise6.BiblWorm.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise6.BiblWorm\obj\Debug\Lab02.Exercise6.BiblWorm.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise6.BiblWorm\obj\Debug\Lab02.Exercise6.BiblWorm.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise6.BiblWorm\obj\Debug\Lab02.Task6.BiblWorm.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise6.BiblWorm\obj\Debug\Lab02.Task6.BiblWorm.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise6.BiblWorm\obj\Debug\Lab02.Exercise6.BiblWorm.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise6.BiblWorm\obj\Debug\Lab02.Exercise6.BiblWorm.pdb

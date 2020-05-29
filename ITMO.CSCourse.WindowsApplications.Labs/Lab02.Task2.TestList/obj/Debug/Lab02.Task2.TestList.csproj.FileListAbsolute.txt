@@ -1,0 +1,9 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise2.TestList\bin\Debug\Lab02.Exercise2.TestList.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise2.TestList\bin\Debug\Lab02.Exercise2.TestList.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise2.TestList\bin\Debug\Lab02.Exercise2.TestList.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise2.TestList\obj\Debug\Lab02.Exercise2.TestList.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise2.TestList\obj\Debug\Lab02.Exercise2.TestList.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise2.TestList\obj\Debug\Lab02.Task2.TestList.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise2.TestList\obj\Debug\Lab02.Task2.TestList.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise2.TestList\obj\Debug\Lab02.Exercise2.TestList.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise2.TestList\obj\Debug\Lab02.Exercise2.TestList.pdb

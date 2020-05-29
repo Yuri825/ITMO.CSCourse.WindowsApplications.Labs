@@ -1,0 +1,7 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\БиблиотекаЭУ\bin\Debug\БиблиотекаЭУ.dll
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\БиблиотекаЭУ\bin\Debug\БиблиотекаЭУ.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\БиблиотекаЭУ\obj\Debug\БиблиотекаЭУ.UserControl1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\БиблиотекаЭУ\obj\Debug\Lab03.Task1.Library.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\БиблиотекаЭУ\obj\Debug\Lab03.Task1.Library.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\БиблиотекаЭУ\obj\Debug\БиблиотекаЭУ.dll
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\БиблиотекаЭУ\obj\Debug\БиблиотекаЭУ.pdb

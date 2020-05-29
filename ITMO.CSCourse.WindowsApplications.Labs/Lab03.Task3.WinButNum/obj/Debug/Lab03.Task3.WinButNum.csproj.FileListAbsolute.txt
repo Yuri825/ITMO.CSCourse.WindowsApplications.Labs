@@ -1,0 +1,10 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise3.WinButNum\bin\Debug\Lab03.Exercise3.WinButNum.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise3.WinButNum\bin\Debug\Lab03.Exercise3.WinButNum.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise3.WinButNum\bin\Debug\Lab03.Exercise3.WinButNum.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise3.WinButNum\obj\Debug\Lab03.Task3.WinButNum.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise3.WinButNum\obj\Debug\Lab03.Exercise3.WinButNum.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise3.WinButNum\obj\Debug\Lab03.Exercise3.WinButNum.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise3.WinButNum\obj\Debug\Lab03.Task3.WinButNum.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise3.WinButNum\obj\Debug\Lab03.Task3.WinButNum.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise3.WinButNum\obj\Debug\Lab03.Exercise3.WinButNum.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise3.WinButNum\obj\Debug\Lab03.Exercise3.WinButNum.pdb

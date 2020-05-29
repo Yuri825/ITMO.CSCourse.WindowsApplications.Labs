@@ -1,0 +1,9 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise7.RegistrationForm\bin\Debug\Lab02.Exercise7.RegistrationForm.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise7.RegistrationForm\bin\Debug\Lab02.Exercise7.RegistrationForm.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise7.RegistrationForm\bin\Debug\Lab02.Exercise7.RegistrationForm.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise7.RegistrationForm\obj\Debug\Lab02.Exercise7.RegistrationForm.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise7.RegistrationForm\obj\Debug\Lab02.Exercise7.RegistrationForm.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise7.RegistrationForm\obj\Debug\Lab02.Task7.RegistrationForm.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise7.RegistrationForm\obj\Debug\Lab02.Task7.RegistrationForm.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise7.RegistrationForm\obj\Debug\Lab02.Exercise7.RegistrationForm.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise7.RegistrationForm\obj\Debug\Lab02.Exercise7.RegistrationForm.pdb

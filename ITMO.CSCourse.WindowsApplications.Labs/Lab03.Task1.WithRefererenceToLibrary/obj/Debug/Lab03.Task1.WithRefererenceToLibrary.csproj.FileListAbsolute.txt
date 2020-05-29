@@ -1,0 +1,11 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Со ссылкой на библиотеку\bin\Debug\Со ссылкой на библиотеку.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Со ссылкой на библиотеку\bin\Debug\Со ссылкой на библиотеку.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Со ссылкой на библиотеку\bin\Debug\Со ссылкой на библиотеку.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Со ссылкой на библиотеку\obj\Debug\Lab03.Task1.WithRefererenceToLibrary.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Со ссылкой на библиотеку\obj\Debug\Со_ссылкой_на_библиотеку.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Со ссылкой на библиотеку\obj\Debug\Со_ссылкой_на_библиотеку.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Со ссылкой на библиотеку\obj\Debug\Lab03.Task1.WithRefererenceToLibrary.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Со ссылкой на библиотеку\obj\Debug\Lab03.Task1.WithRefererenceToLibrary.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Со ссылкой на библиотеку\obj\Debug\Lab03.Task1.WithRefererenceToLibrary.csproj.CopyComplete
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Со ссылкой на библиотеку\obj\Debug\Со ссылкой на библиотеку.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Со ссылкой на библиотеку\obj\Debug\Со ссылкой на библиотеку.pdb

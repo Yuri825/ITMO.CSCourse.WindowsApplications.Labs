@@ -1,0 +1,11 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise2.TriangleForm\bin\Debug\Exercise2.TriangleForm.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise2.TriangleForm\bin\Debug\Exercise2.TriangleForm.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise2.TriangleForm\bin\Debug\Exercise2.TriangleForm.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise2.TriangleForm\obj\Debug\Lab01.Task2.TriangleForm.Task3.InheritForm.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise2.TriangleForm\obj\Debug\Exercise2.TriangleForm.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise2.TriangleForm\obj\Debug\Exercise2.TriangleForm.nForm.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise2.TriangleForm\obj\Debug\Exercise2.TriangleForm.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise2.TriangleForm\obj\Debug\Lab01.Task2.TriangleForm.Task3.InheritForm.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise2.TriangleForm\obj\Debug\Lab01.Task2.TriangleForm.Task3.InheritForm.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise2.TriangleForm\obj\Debug\Exercise2.TriangleForm.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Exercise2.TriangleForm\obj\Debug\Exercise2.TriangleForm.pdb

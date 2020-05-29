@@ -1,0 +1,10 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab07.Task1.WinBackgroundWorker\bin\Debug\Lab07.Task1.WinBackgroundWorker.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab07.Task1.WinBackgroundWorker\bin\Debug\Lab07.Task1.WinBackgroundWorker.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab07.Task1.WinBackgroundWorker\bin\Debug\Lab07.Task1.WinBackgroundWorker.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab07.Task1.WinBackgroundWorker\obj\Debug\Lab07.Task1.WinBackgroundWorker.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab07.Task1.WinBackgroundWorker\obj\Debug\Lab07.Task1.WinBackgroundWorker.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab07.Task1.WinBackgroundWorker\obj\Debug\Lab07.Task1.WinBackgroundWorker.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab07.Task1.WinBackgroundWorker\obj\Debug\Lab07.Task1.WinBackgroundWorker.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab07.Task1.WinBackgroundWorker\obj\Debug\Lab07.Task1.WinBackgroundWorker.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab07.Task1.WinBackgroundWorker\obj\Debug\Lab07.Task1.WinBackgroundWorker.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab07.Task1.WinBackgroundWorker\obj\Debug\Lab07.Task1.WinBackgroundWorker.pdb

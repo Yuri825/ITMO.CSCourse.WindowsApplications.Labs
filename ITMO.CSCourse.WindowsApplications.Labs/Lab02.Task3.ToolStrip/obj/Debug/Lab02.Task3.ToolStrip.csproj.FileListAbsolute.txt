@@ -1,0 +1,10 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise3.ToolStrip\bin\Debug\Exercise4.MdiApplication.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise3.ToolStrip\bin\Debug\Exercise4.MdiApplication.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise3.ToolStrip\bin\Debug\Exercise4.MdiApplication.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise3.ToolStrip\obj\Debug\Exercise4.MdiApplication.ChildForm.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise3.ToolStrip\obj\Debug\Exercise4.MdiApplication.ParentForm.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise3.ToolStrip\obj\Debug\Exercise4.MdiApplication.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise3.ToolStrip\obj\Debug\Lab02.Task3.ToolStrip.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise3.ToolStrip\obj\Debug\Lab02.Task3.ToolStrip.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise3.ToolStrip\obj\Debug\Exercise4.MdiApplication.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab02.Exercise3.ToolStrip\obj\Debug\Exercise4.MdiApplication.pdb

@@ -1,0 +1,10 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise1.WinTimer1\bin\Debug\Lab03.Exercise1.WinTimer1.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise1.WinTimer1\bin\Debug\Lab03.Exercise1.WinTimer1.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise1.WinTimer1\bin\Debug\Lab03.Exercise1.WinTimer1.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise1.WinTimer1\obj\Debug\Lab03.Exercise1.WinTimer1.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise1.WinTimer1\obj\Debug\Lab03.Exercise1.WinTimer1.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise1.WinTimer1\obj\Debug\Lab03.Exercise1.WinTimer1.UserControlTimer.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise1.WinTimer1\obj\Debug\Lab03.Task1.WinTimer1.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise1.WinTimer1\obj\Debug\Lab03.Task1.WinTimer1.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise1.WinTimer1\obj\Debug\Lab03.Exercise1.WinTimer1.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Лабораторные работы\ITMO.CSCourse.WindowsApplications.Labs\Lab03.Exercise1.WinTimer1\obj\Debug\Lab03.Exercise1.WinTimer1.pdb
