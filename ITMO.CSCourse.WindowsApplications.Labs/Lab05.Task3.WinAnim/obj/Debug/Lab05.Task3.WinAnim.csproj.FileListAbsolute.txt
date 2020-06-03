@@ -1,0 +1,10 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task3.WinAnim\bin\Debug\Lab05.Task3.WinAnim.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task3.WinAnim\bin\Debug\Lab05.Task3.WinAnim.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task3.WinAnim\bin\Debug\Lab05.Task3.WinAnim.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task3.WinAnim\obj\Debug\Lab05.Task3.WinAnim.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task3.WinAnim\obj\Debug\Lab05.Task3.WinAnim.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task3.WinAnim\obj\Debug\Lab05.Task3.WinAnim.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task3.WinAnim\obj\Debug\Lab05.Task3.WinAnim.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task3.WinAnim\obj\Debug\Lab05.Task3.WinAnim.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task3.WinAnim\obj\Debug\Lab05.Task3.WinAnim.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task3.WinAnim\obj\Debug\Lab05.Task3.WinAnim.pdb

@@ -1,0 +1,15 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\bin\Debug\Lab05.Task2.PDFReader.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\bin\Debug\Lab05.Task2.PDFReader.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\bin\Debug\Lab05.Task2.PDFReader.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\bin\Debug\Interop.AcroPDFLib.dll
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\obj\Debug\Lab05.Task2.PDFReader.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\obj\Debug\Interop.AcroPDFLib.dll
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\obj\Debug\Lab05.Task2.PDFReader.csproj.ResolveComReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\obj\Debug\Lab05.Task2.PDFReader.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\obj\Debug\Lab05.Task2.PDFReader.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\obj\Debug\Lab05.Task2.PDFReader.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\obj\Debug\Lab05.Task2.PDFReader.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\obj\Debug\Lab05.Task2.PDFReader.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task2.PDFReader\obj\Debug\Lab05.Task2.PDFReader.pdb

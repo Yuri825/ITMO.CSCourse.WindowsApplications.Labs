@@ -1,0 +1,11 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task1\bin\Debug\Lab05.Task1.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task1\bin\Debug\Lab05.Task1.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task1\bin\Debug\Lab05.Task1.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task1\obj\Debug\Lab05.Task1.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task1\obj\Debug\Lab05.Task1.csproj.ResolveComReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task1\obj\Debug\Lab05.Task1.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task1\obj\Debug\Lab05.Task1.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task1\obj\Debug\Lab05.Task1.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task1\obj\Debug\Lab05.Task1.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task1\obj\Debug\Lab05.Task1.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab05.Task1\obj\Debug\Lab05.Task1.pdb
