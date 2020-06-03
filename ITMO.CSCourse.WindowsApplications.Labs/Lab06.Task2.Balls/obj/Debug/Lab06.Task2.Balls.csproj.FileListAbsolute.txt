@@ -1,0 +1,9 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task2.Balls\bin\Debug\Lab06.Task2.Balls.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task2.Balls\bin\Debug\Lab06.Task2.Balls.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task2.Balls\bin\Debug\Lab06.Task2.Balls.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task2.Balls\obj\Debug\Lab06.Task2.Balls.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task2.Balls\obj\Debug\Lab06.Task2.Balls.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task2.Balls\obj\Debug\Lab06.Task2.Balls.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task2.Balls\obj\Debug\Lab06.Task2.Balls.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task2.Balls\obj\Debug\Lab06.Task2.Balls.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task2.Balls\obj\Debug\Lab06.Task2.Balls.pdb

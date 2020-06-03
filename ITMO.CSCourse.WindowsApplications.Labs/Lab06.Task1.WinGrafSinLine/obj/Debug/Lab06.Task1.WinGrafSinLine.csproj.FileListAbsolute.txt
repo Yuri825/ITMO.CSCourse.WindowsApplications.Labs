@@ -1,0 +1,11 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task1.WinGrafSinLine\bin\Debug\Lab06.Task1.WinGrafSinLine.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task1.WinGrafSinLine\bin\Debug\Lab06.Task1.WinGrafSinLine.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task1.WinGrafSinLine\bin\Debug\Lab06.Task1.WinGrafSinLine.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task1.WinGrafSinLine\obj\Debug\Lab06.Task1.WinGrafSinLine.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task1.WinGrafSinLine\obj\Debug\Lab06.Task1.WinGrafSinLine.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task1.WinGrafSinLine\obj\Debug\Lab06.Task1.WinGrafSinLine.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task1.WinGrafSinLine\obj\Debug\Lab06.Task1.WinGrafSinLine.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task1.WinGrafSinLine\obj\Debug\Lab06.Task1.WinGrafSinLine.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task1.WinGrafSinLine\obj\Debug\Lab06.Task1.WinGrafSinLine.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task1.WinGrafSinLine\obj\Debug\Lab06.Task1.WinGrafSinLine.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab06.Task1.WinGrafSinLine\obj\Debug\Lab06.Task1.WinGrafSinLine.Form2.resources
