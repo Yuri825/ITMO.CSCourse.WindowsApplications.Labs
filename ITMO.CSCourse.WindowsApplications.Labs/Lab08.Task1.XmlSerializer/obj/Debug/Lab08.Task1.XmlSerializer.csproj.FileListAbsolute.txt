@@ -1,0 +1,11 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task1.XmlSerializer\bin\Debug\Lab04.Task2.EditPerson.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task1.XmlSerializer\bin\Debug\Lab04.Task2.EditPerson.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task1.XmlSerializer\bin\Debug\Lab04.Task2.EditPerson.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task1.XmlSerializer\obj\Debug\Lab08.Task1.XmlSerializer.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task1.XmlSerializer\obj\Debug\Lab04.Task2.EditPerson.EditPersonForm.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task1.XmlSerializer\obj\Debug\Lab04.Task2.EditPerson.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task1.XmlSerializer\obj\Debug\Lab04.Task2.EditPerson.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task1.XmlSerializer\obj\Debug\Lab08.Task1.XmlSerializer.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task1.XmlSerializer\obj\Debug\Lab08.Task1.XmlSerializer.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task1.XmlSerializer\obj\Debug\Lab04.Task2.EditPerson.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task1.XmlSerializer\obj\Debug\Lab04.Task2.EditPerson.pdb

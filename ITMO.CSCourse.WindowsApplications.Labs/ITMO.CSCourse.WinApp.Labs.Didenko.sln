@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06.Task2.Balls", "Lab06.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab06.Task3.WindowsFormsChart", "Lab06.Task3.WindowsFormsChart\Lab06.Task3.WindowsFormsChart.csproj", "{61761F39-A025-446F-BFD5-D8DA15417C12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab08.Task1.BinaryFormatter", "Lab08.Task1.BinaryFormatter\Lab08.Task1.BinaryFormatter.csproj", "{11C036B3-E662-4E73-840C-5471C8A190F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab08.Task1.XmlSerializer", "Lab08.Task1.XmlSerializer\Lab08.Task1.XmlSerializer.csproj", "{35FE8C5F-FD70-4A2D-921D-CC97690B97D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +193,14 @@ Global
 		{61761F39-A025-446F-BFD5-D8DA15417C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61761F39-A025-446F-BFD5-D8DA15417C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61761F39-A025-446F-BFD5-D8DA15417C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C036B3-E662-4E73-840C-5471C8A190F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C036B3-E662-4E73-840C-5471C8A190F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C036B3-E662-4E73-840C-5471C8A190F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C036B3-E662-4E73-840C-5471C8A190F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FE8C5F-FD70-4A2D-921D-CC97690B97D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FE8C5F-FD70-4A2D-921D-CC97690B97D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FE8C5F-FD70-4A2D-921D-CC97690B97D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FE8C5F-FD70-4A2D-921D-CC97690B97D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

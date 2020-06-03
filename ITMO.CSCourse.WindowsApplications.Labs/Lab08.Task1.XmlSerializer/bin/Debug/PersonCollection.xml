@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">Петя</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">Петров</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">aa</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">qq</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">aaa</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">sss</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+</ArrayOfPerson>
