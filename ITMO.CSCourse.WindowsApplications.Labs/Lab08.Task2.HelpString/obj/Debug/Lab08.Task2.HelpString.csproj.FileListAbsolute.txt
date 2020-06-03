@@ -1,0 +1,10 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task2.HelpString\bin\Debug\Lab07.Task3.WinAsynchMethod.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task2.HelpString\bin\Debug\Lab07.Task3.WinAsynchMethod.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task2.HelpString\bin\Debug\Lab07.Task3.WinAsynchMethod.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task2.HelpString\obj\Debug\Lab08.Task2.HelpString.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task2.HelpString\obj\Debug\Lab07.Task3.WinAsynchMethod.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task2.HelpString\obj\Debug\Lab07.Task3.WinAsynchMethod.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task2.HelpString\obj\Debug\Lab08.Task2.HelpString.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task2.HelpString\obj\Debug\Lab08.Task2.HelpString.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task2.HelpString\obj\Debug\Lab07.Task3.WinAsynchMethod.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task2.HelpString\obj\Debug\Lab07.Task3.WinAsynchMethod.pdb

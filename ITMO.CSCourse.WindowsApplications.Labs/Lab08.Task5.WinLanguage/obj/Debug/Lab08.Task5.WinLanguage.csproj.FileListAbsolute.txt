@@ -1,0 +1,16 @@
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\bin\Debug\Lab08.Task5.WinLanguage.exe.config
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\bin\Debug\Lab08.Task5.WinLanguage.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\bin\Debug\Lab08.Task5.WinLanguage.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\obj\Debug\Lab08.Task5.WinLanguage.csprojAssemblyReference.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\obj\Debug\Lab08.Task5.WinLanguage.Form1.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\obj\Debug\Lab08.Task5.WinLanguage.Properties.Resources.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\obj\Debug\Lab08.Task5.WinLanguage.csproj.GenerateResource.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\obj\Debug\Lab08.Task5.WinLanguage.csproj.CoreCompileInputs.cache
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\obj\Debug\Lab08.Task5.WinLanguage.exe
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\obj\Debug\Lab08.Task5.WinLanguage.pdb
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\bin\Debug\en-US\Lab08.Task5.WinLanguage.resources.dll
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\obj\Debug\Lab08.Task5.WinLanguage.Form1.en-US.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\obj\Debug\en-US\Lab08.Task5.WinLanguage.resources.dll
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\bin\Debug\ru-RU\Lab08.Task5.WinLanguage.resources.dll
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\obj\Debug\Lab08.Task5.WinLanguage.Form1.ru-RU.resources
+D:\ИТМО\2. С#\С# разработка Windows приложений\Черновик\ITMO.CSCourse.WindowsApplications.Labs\Lab08.Task5.WinLanguage\obj\Debug\ru-RU\Lab08.Task5.WinLanguage.resources.dll
