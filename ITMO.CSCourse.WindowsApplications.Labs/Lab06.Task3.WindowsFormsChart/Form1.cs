@@ -22,7 +22,7 @@ namespace Lab06.Task3.WindowsFormsChart
                 chart1.Series["Series1"].Points.AddXY(i, d1.random(10));
             }
 
-            chart1.Series["Series1"].ChartType = SeriesChartType.Spline;
+            //chart1.Series["Series1"].ChartType = SeriesChartType.Spline;
             chart1.Series["Series1"].IsValueShownAsLabel = true;
             chart1.Series["Series1"].LegendText = "Ветер м/с";
         }
@@ -37,24 +37,25 @@ namespace Lab06.Task3.WindowsFormsChart
             {
                 chart1.Series["Series1"].Points.AddXY(i, d1.random(d));
             }
-            chart1.Series["Series1"].ChartType = SeriesChartType.Spline;
+            //chart1.Series["Series1"].ChartType = SeriesChartType.Spline;
+
+            if (checkBox1.Checked == true)
+                chart1.Series["Series1"].ChartType = SeriesChartType.Column;
+            else
+                chart1.Series["Series1"].ChartType = SeriesChartType.Spline;
+
             chart1.Series["Series1"].IsValueShownAsLabel = true;
             chart1.Series["Series1"].LegendText = leg;
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-            if (radioButton1.Checked == true)
-            {
-                chartPlot(100, "Влажность");
-            }
+            chartPlot(100, "Влажность");
         }
+
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-            if (radioButton2.Checked == true)
-            {
-                chartPlot(30, "Температура");
-            }
+            chartPlot(30, "Температура");
         }
     }
 }
